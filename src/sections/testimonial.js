@@ -6,7 +6,7 @@ import ButtonGroup from 'components/button-group';
 import Carousel from 'react-multi-carousel';
 import Two from '../assets/2.png';
 import Three from '../assets/3.png';
-import Yasin from '../assets/yasin.png';
+import Yasin from '../assets/yasinImg.png';
 
 
 const data = [
