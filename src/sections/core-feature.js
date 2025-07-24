@@ -4,7 +4,7 @@ const data = {
   subTitle: '🚚 Core Services',
   title: 'All-in-One Local Delivery Solution for Your Daily Needs',
   description:
-    'From ride bookings to groceries, medicine to meals — Tabedaar connects you with essential services across Thana and Chakdara. Affordable, fast, and trusted!',
+    'From ride bookings to groceries, medicine to meals — Tabedaar connects you with essential services across Malakand region. Affordable, fast, and trusted!',
   btnName: 'Explore Services',
   btnURL: '#services',
 };

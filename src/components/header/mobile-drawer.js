@@ -14,22 +14,22 @@ import {
 import menuItems from './header.data';
 
 const social = [
-  {
-    path: '/',
-    icon: <FaFacebookF />,
-  },
-  {
-    path: '/',
-    icon: <FaTwitter />,
-  },
-  {
-    path: '/',
-    icon: <FaGithubAlt />,
-  },
-  {
-    path: '/',
-    icon: <FaDribbble />,
-  },
+  // {
+  //   path: 'https://web.facebook.com/profile.php?id=61576277960397',
+  //   icon: <FaFacebookF />,
+  // },
+  // {
+  //   path: '/',
+  //   icon: <FaTwitter />,
+  // },
+  // {
+  //   path: '/',
+  //   icon: <FaGithubAlt />,
+  // },
+  // {
+  //   path: '/',
+  //   icon: <FaDribbble />,
+  // },
 ];
 
 const MobileDrawer = () => {
@@ -68,6 +68,7 @@ const MobileDrawer = () => {
                 offset={-70}
                 duration={500}
                 key={i}
+                onClick={toggleHandler}
               >
                 {label}
               </Link>
@@ -78,7 +79,7 @@ const MobileDrawer = () => {
             <Box sx={styles.social}>
               {social.map(({ path, icon }, i) => (
                 <Box as="span" key={i} sx={styles.social.icon}>
-                  <Link to={path}>{icon}</Link>
+                  <Link href={path}>{icon}</Link>
                 </Box>
               ))}
             </Box>

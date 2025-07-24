@@ -9,7 +9,7 @@ const branches = [
   {
     id: 1,
     title: 'Head Office – Thana',
-    address: 'Main Bazar, Thana Malakand',
+    address: 'Collage Road Thana Malakand Near Nadra office',
     phone: '+92 341 7713938',
   },
   {

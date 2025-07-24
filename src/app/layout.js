@@ -65,7 +65,7 @@ export const metadata = {
   creator: "Tabedaar Delivery Services",
   openGraph: {
     title: "Tabedaar Delivery Services",
-    description: "Reliable, fast, and affordable delivery across your city – groceries, food, and more at your doorstep.",
+    description: "Reliable, fast, and affordable delivery across Malakand region – groceries, food, and more at your doorstep.",
     url: "https://tabedaars.com",
     siteName: "Tabedaar",
     images: [
@@ -81,7 +81,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Tabedaar Delivery Services",
-    description: "Reliable, fast, and affordable delivery across your city – groceries, food, and more at your doorstep.",
+    description: "Reliable, fast, and affordable delivery across Malakand region – groceries, food, and more at your doorstep.",
     images: {
       url: `https://tabedaars.com/opengraph-image.png`,
       width: 1200,

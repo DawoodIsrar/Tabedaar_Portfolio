@@ -40,7 +40,7 @@ export default {
   },
   {
     path: 'workflow',
-    label: 'WhyChooseUs',
+    label: 'Why Choose Us',
   },
   {
     path: 'work',

@@ -6,7 +6,7 @@ const services = [
     id: 1,
     icon: '🛵',
     title: 'Ride Booking',
-    text: 'Affordable bike rides across Thana & Chakdara — just a tap away.',
+    text: 'Affordable bike rides across Malakand region — just a tap away.',
   },
   {
     id: 2,
@@ -56,6 +56,24 @@ const services = [
     title: 'Pick & Drop',
     text: 'Courier and pickup services made easy for everyone.',
   },
+  {
+    id: 10,
+    icon: '🚖',
+    title: 'Taxi Booking',
+    text: 'Book comfortable car rides for local and long-distance travel.',
+  },
+  {
+    id: 11,
+    icon: '🧰',
+    title: 'Home Services',
+    text: 'Plumbing, electrician, and repair services fast and reliable.',
+  },
+  {
+    id: 11,
+    icon: '👨‍⚕️',
+    title: 'Health Services',
+    text: 'Book home visits from certified nurses, doctors, or health assistants.',
+  }
 ];
 
 export default function ServiceSection() {

@@ -6,7 +6,7 @@ const data = [
     id: 1,
     icon: '⚡',
     title: 'Fast & Reliable',
-    text: 'Tabedaar ensures quick response and delivery across Thana and Chakdara — on time, every time.',
+    text: 'Tabedaar ensures quick response and delivery across Malakand region — on time, every time.',
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const data = [
     id: 4,
     icon: '🌐',
     title: 'Expanding Reach',
-    text: 'With branches in Thana & Chakdara, we’re rapidly expanding across the Malakand region.',
+    text: 'With branches in Thana, Chakdara & Batkhela, we’re rapidly expanding across the Malakand region.',
   },
 ];
 
