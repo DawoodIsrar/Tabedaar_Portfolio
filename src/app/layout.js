@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: "Tabedaar Delivery Services",
-  description: "Reliable, fast, and affordable delivery across your city – groceries, food, and more at your doorstep.",
+  description: "Reliable, fast, and affordable delivery across Malakand region – groceries, food, and more at your doorstep.",
   keywords: [
   "Tabedaar",
   "Tabedaar Delivery",
